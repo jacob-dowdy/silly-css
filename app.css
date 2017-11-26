@@ -1,0 +1,18 @@
+h1 {
+	color: rgba(0,200,100, 0.8);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 2px solid rgb(255,100,80);
+}
+
+h4 {
+	background: rbg(255,100,80);
+}
+
+body {
+	/*background: url(https://cdn.pixabay.com/photo/2017/01/15/09/53/texture-1981129_1280.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	background: pink;
+}
